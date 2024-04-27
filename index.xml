@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>twinkle</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="lean-on"/>
   <readme>
     <en>02ced4888aa1155de9b50327c75c204fa480dff7f271fbfe498baf88fb61da96</en>
@@ -78,15 +78,15 @@
     <bpm>88</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>2</tonalities>
-    <video name="twinkle_3_.mp4" size="462915" type="video/mp4" volume="1">790b2a250fbd739a0b200e4a310312687efbe8eeb8f1f3cfe0462fef4ed3ddf3</video>
+    <video name="twinkle_7_.mp4" size="484869" type="video/mp4" volume="1">0dd2a8bd30aedec0725be4fac12e5251a502550243a3dd2f61154b0918c033f8</video>
     <notes>
-      <note number="1" values="48" ticks="49" durationTicks="82" ppq="96" velocity="0.769"/>
-      <note number="2" values="48" ticks="144" durationTicks="63" ppq="96" velocity="0.679"/>
-      <note number="3" values="38" ticks="241" durationTicks="64" ppq="96" velocity="0.727"/>
-      <note number="4" values="38" ticks="337" durationTicks="80" ppq="96" velocity="0.621"/>
-      <note number="5" values="28" ticks="432" durationTicks="83" ppq="96" velocity="0.812"/>
-      <note number="6" values="28" ticks="530" durationTicks="87" ppq="96" velocity="0.674"/>
-      <note number="7" values="18" ticks="625" durationTicks="65" ppq="96" velocity="0.797"/>
+      <note number="1" values="18" ticks="95" durationTicks="82" ppq="96" velocity="0.691"/>
+      <note number="2" values="18" ticks="193" durationTicks="63" ppq="96" velocity="0.576"/>
+      <note number="3" values="58" ticks="287" durationTicks="64" ppq="96" velocity="0.664"/>
+      <note number="4" values="58" ticks="384" durationTicks="80" ppq="96" velocity="0.556"/>
+      <note number="5" values="68" ticks="479" durationTicks="83" ppq="96" velocity="0.689"/>
+      <note number="6" values="68" ticks="577" durationTicks="87" ppq="96" velocity="0.611"/>
+      <note number="7" values="58" ticks="674" durationTicks="112" ppq="96" velocity="0.694"/>
     </notes>
   </exercise>
   <exercise number="6">
